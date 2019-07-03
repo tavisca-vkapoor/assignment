@@ -1,0 +1,14 @@
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\bin\Debug\netcoreapp2.1\GitHubTestApi.deps.json
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\bin\Debug\netcoreapp2.1\GitHubTestApi.runtimeconfig.json
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\bin\Debug\netcoreapp2.1\GitHubTestApi.runtimeconfig.dev.json
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\bin\Debug\netcoreapp2.1\GitHubTestApi.dll
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\obj\Debug\netcoreapp2.1\GitHubTestApi.csprojAssemblyReference.cache
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\obj\Debug\netcoreapp2.1\GitHubTestApi.csproj.CoreCompileInputs.cache
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\obj\Debug\netcoreapp2.1\GitHubTestApi.AssemblyInfoInputs.cache
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\obj\Debug\netcoreapp2.1\GitHubTestApi.AssemblyInfo.cs
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\bin\Debug\netcoreapp2.1\GitHubTestApi.pdb
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\obj\Debug\netcoreapp2.1\GitHubTestApi.dll
+C:\Users\fxb1962\source\repos\GithubApiAutomation\GitHubTestApi\obj\Debug\netcoreapp2.1\GitHubTestApi.pdb

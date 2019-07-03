@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GitHubTestApi" GeneratedClassName="GitConfigurations">
+  <Profiles />
+  <Settings>
+    <Setting Name="PersonalToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0c85fc8f73d2182749a1d47376dc1e65fed64b10</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vishalagrostar</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vishal@23</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,13 @@
+Solution for GitHub Api consists of Entities, Tests & Helpers
+Entities --> Entites are the class models for different types of request/respone
+Helpers -> It consists of the ApiHelpers which helps in doing different operations & Data helpers which helps in creating the body for different types of request.
+Tests-> This folder basically contains all the different scenarios test related to the repository.
+
+Requirement:- .Net Framework 4.6.1 is need to be installed for the solution to run successfully.
+
+Screenshots for the test results are attached for the refernces
+
+Libraries used:- 
+1.) NewtonSoftJson -> Handling Json related operations
+2.) MsTest -> For Unit Testing
+3.) HttpClient -> For performing api operations
